@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CodingProject_3</string>
+    <string name="text1">机型</string>
+    <string name="text2">容量</string>
+</resources>
